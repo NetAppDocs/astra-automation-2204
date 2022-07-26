@@ -19,6 +19,6 @@ See the following pages and sites for more information about this release as wel
 
 * link:../rn/whats_new.html[What's new with the Astra Control REST API]
 * link:../endpoints/resources.html[REST resources and endpoints]
-* https://docs.netapp.com/us-en/astra-control-center/[Astra Control Center 22.04 documentation^]
-* https://docs.netapp.com/us-en/astra-control-service/[Astra Control Service 22.04 documentation^]
+* https://docs.netapp.com/us-en/astra-control-center-2204/[Astra Control Center 22.04 documentation^]
+* https://docs.netapp.com/us-en/astra-control-service/[Astra Control Service documentation^]
 * link:../aa-earlier-versions.html[Earlier versions of Astra Automation documentation]
