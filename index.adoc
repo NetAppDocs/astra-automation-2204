@@ -6,7 +6,7 @@ lead: Astra Control is a NetApp software product that provides data lifecycle ma
 summary: This is the summary for Astra Automation.
 ---
 
-= Astra Control Automation documentation
+= Astra Control Automation 22.04 documentation
 :hardbreaks:
 :nofooter:
 :icons: font
